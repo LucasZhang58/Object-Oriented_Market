@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7319357c-fdc7-47a1-84bc-512968b91c2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ieCnemawViypvxsGWvb5DuOIZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CS 1332/ CS1332Homeworks/CS1332-checkstyle (1).xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Market">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OopPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Market" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Market" />
+      <module name="OopPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Market" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7319357c-fdc7-47a1-84bc-512968b91c2c" name="Default Changelist" comment="" />
+      <created>1602258838732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602258838732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1128" y="91" key="#Project_Structure" timestamp="1602258849404">
+      <screen x="-1440" y="2" width="1440" height="860" />
+    </state>
+    <state x="-1128" y="91" key="#Project_Structure/0.0.1280.680/-1440.2.1440.860@-1440.2.1440.860" timestamp="1602258849404" />
+    <state x="-1266" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602259148797">
+      <screen x="-1440" y="2" width="1440" height="860" />
+    </state>
+    <state x="-1266" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1440.2.1440.860@-1440.2.1440.860" timestamp="1602259148797" />
+    <state x="-915" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1602266814271">
+      <screen x="-1440" y="2" width="1440" height="860" />
+    </state>
+    <state x="-915" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-1440.2.1440.860@-1440.2.1440.860" timestamp="1602266814271" />
+    <state width="1056" height="101" key="GridCell.Tab.0.bottom" timestamp="1602302813409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.bottom/0.0.1280.680/-1440.2.1440.860@-1440.2.1440.860" timestamp="1602269133099" />
+    <state width="1056" height="101" key="GridCell.Tab.0.bottom/0.0.1280.680/-1440.2.1440.860@0.0.1280.680" timestamp="1602302813409" />
+    <state width="1056" height="101" key="GridCell.Tab.0.center" timestamp="1602302813408">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.center/0.0.1280.680/-1440.2.1440.860@-1440.2.1440.860" timestamp="1602269133098" />
+    <state width="1056" height="101" key="GridCell.Tab.0.center/0.0.1280.680/-1440.2.1440.860@0.0.1280.680" timestamp="1602302813408" />
+    <state width="1056" height="101" key="GridCell.Tab.0.left" timestamp="1602302813408">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.left/0.0.1280.680/-1440.2.1440.860@-1440.2.1440.860" timestamp="1602269133098" />
+    <state width="1056" height="101" key="GridCell.Tab.0.left/0.0.1280.680/-1440.2.1440.860@0.0.1280.680" timestamp="1602302813408" />
+    <state width="1056" height="101" key="GridCell.Tab.0.right" timestamp="1602302813409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.right/0.0.1280.680/-1440.2.1440.860@-1440.2.1440.860" timestamp="1602269133098" />
+    <state width="1056" height="101" key="GridCell.Tab.0.right/0.0.1280.680/-1440.2.1440.860@0.0.1280.680" timestamp="1602302813409" />
+  </component>
+</project>
